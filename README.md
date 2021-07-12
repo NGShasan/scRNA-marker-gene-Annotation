@@ -1,7 +1,7 @@
 # scRNA-marker-gene-Annotation
 
 ### Dataset: 
-single-cell RNA bone marrow dataset from https://panglaodb.se/index.html.
+bone marrow's single-cell RNA dataset from https://panglaodb.se/index.html.
 
 ### Result Visualization:
 
